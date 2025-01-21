@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **Scr1my/Scr1my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
