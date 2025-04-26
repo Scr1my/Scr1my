@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr1my&theme=tokyonight)
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -37,6 +35,10 @@
 [![wordpress][wordpress-logo]][wordpress-link]
 [![npm][npm-logo]][npm-link]
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- utils -->
 [js-logo]: https://skillicons.dev/icons?i=js
 [js-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
