@@ -34,6 +34,7 @@
 [![windows][windows-logo]][windows-link]
 [![wordpress][wordpress-logo]][wordpress-link]
 [![npm][npm-logo]][npm-link]
+[![godot][godot-logo]][godot-link]
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -129,6 +130,8 @@
 [npm-logo]: https://skillicons.dev/icons?i=npm
 [npm-link]: https://www.npmjs.com
 
+[godot-logo]: https://skillicons.dev/icons?i=godot
+[godot-link]: https://godotengine.org/
 
 <!--
 **Scr1my/Scr1my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
