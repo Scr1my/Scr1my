@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr1my&theme=tokyonight&exclude=vagrant_multi_machine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr1my&theme=tokyonight&exclude_repo=vagrant_multi_machine)
 
 ### :hammer_and_wrench: Languages and Tools :
 
